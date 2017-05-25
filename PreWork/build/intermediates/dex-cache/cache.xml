@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\7dcad79e603baa8d11737ad973c0bdf5ce027b15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_7ceede55d1ac628daac79cfa25bc5a8c85742ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_76cc89a4dca8598a9a1da11b155481b342da1798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\f582da13ed7460bb8feb047ff1479b7c5d61209b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_1564183a90c2b865925e3df3679cfab4cf6f7932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\8fa185db31db69c779f4d2dfbc47b4dc988a6e30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_930c81e6190e913ef7dc034e763c41be1c0cc5aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\f582da13ed7460bb8feb047ff1479b7c5d61209b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_36f6363395ef47fa0f4f357c224867daf4d25998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\39247ce9a3616b63751b7612b4efe32a7c2206d8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9a88b6e0cd9220351d227c4d242bd07194fe72c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\39247ce9a3616b63751b7612b4efe32a7c2206d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_3ace7e8a4edddf7f67faef105145f9d3a1828e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\2b96faa4d0b1777e9c967633bb1b2356fedb0ca0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_94a191bc72a00bc3b2e9b56e72d69660e6859270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\421015bb5ab91056bdb4fce7e09792d2eed00eda\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_634ab2e8db8e31beceecbd62915fcee927e5886e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\ec3c9aae859c82ae371e2c48f29e31eca0ec5eea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_9ebef7cb0c40f23ffe21ad406c388add58f1d58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\421015bb5ab91056bdb4fce7e09792d2eed00eda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_9482503db278d717b47c87dd139e60f3089235b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\a3fcde9229f5971f890e9ed7fdd0a91013f71fe6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_52ca84e06f2b26ae004652139be288048a3bd4eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\936fea941f0cf183cfea0390a313a6e2678298ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_54ddd8c3422bdc46eef61ad6db579164a8f7139f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\df4d817384a77645b9cfd7eb082b6b56e725b60b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\classes_054197a85ef2010dc6e172e58d9183b2034040c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\a3fcde9229f5971f890e9ed7fdd0a91013f71fe6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d92727568baef6ba572d4296eaf0e1a31292e459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\.android\build-cache\8fa185db31db69c779f4d2dfbc47b4dc988a6e30\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_14b0b67fc53eb185ffc612a576a60e98cc2dab80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khoa9\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Khoa\Android\PreWork\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_11581c44d02bc9e499c982242abe588d584064cf.jar" />
+    </item>
+
+</items>

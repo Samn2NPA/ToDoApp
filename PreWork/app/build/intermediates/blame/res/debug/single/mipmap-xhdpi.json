@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\PreWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\PreWork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Khoa\\Android\\PreWork\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\Khoa\\Android\\PreWork\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

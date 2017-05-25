@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.project.samn.todoapp.EditItemActivity">
+
+    <EditText
+        android:id="@+id/edtEditText"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:ems="10"
+        android:hint="@string/Edit_Item"
+        android:inputType="text|textNoSuggestions"
+        android:text="Item"
+        android:layout_marginRight="13dp"
+        android:layout_below="@+id/tvEditItem"
+        android:layout_alignLeft="@+id/tvEditItem"
+        android:layout_alignStart="@+id/tvEditItem" />
+
+    <Button
+        android:id="@+id/btnSave"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="SaveItemEdited"
+        android:text="@string/save"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="121dp"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/edtEditText"
+        android:layout_alignLeft="@+id/tvEditItem"
+        android:layout_alignStart="@+id/tvEditItem" />
+
+    <Button
+        android:id="@+id/btnBack"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="CancelItemEdit"
+        android:text="@string/cancel"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="121dp"
+        android:layout_marginLeft="6dp"
+        android:layout_alignBaseline="@+id/btnSave"
+        android:layout_alignBottom="@+id/btnSave"
+        android:layout_toRightOf="@+id/btnSave"
+        android:layout_toEndOf="@+id/btnSave" />
+
+    <TextView
+        android:id="@+id/tvEditItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_margin="13dp"
+        android:text="@string/Edit_Item_Below"
+        android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionMode.Title"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
